@@ -34,7 +34,8 @@
         "@typescript-eslint/parser": "^4.20.0",
         "eslint": "^7.23.0",
         "eslint-plugin-unused-imports": "^1.1.0",
-        "typescript": "^2.4.2"
+        "typescript": "^2.4.2",
+        "minimist": "^1.2.5"
     },
     "bugs": {
         "url": "https://github.com/sendinblue/APIv3-typescript-library/issues"
